@@ -20,10 +20,10 @@ author_profile: true
 <style>
 .container{
   width: 100%;
-  backgroud-color: black
+  backgroud: black
 }
 </style>
 
-<div class="container">
+<div class="container" style="width: 100%; backgroud: black">
   13584114419684
 </div>
