@@ -17,13 +17,13 @@ author_profile: true
 
 <p>fagagoagjaogjao</p> -->
 
-<style>
+<style type="text/css">
 .container{
   width: 100%;
-  backgroud: black
+  background: black
 }
 </style>
 
-<div class="container" style="width: 100%; backgroud: black">
+<div class="container" style="width: 100%; background: black">
   13584114419684
 </div>
