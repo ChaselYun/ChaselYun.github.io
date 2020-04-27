@@ -21,6 +21,7 @@ author_profile: true
 .img_container{
   width: 100%;
   padding: 40px 30px;
+  text-align-last: justify;
 }
 .img_container>img{
   height: 100px;
