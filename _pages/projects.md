@@ -22,9 +22,9 @@ author_profile: true
   width: 100%;
   padding: 40px 30px;
 }
-.container>img{
+.img_container>img{
   height: 100px;
-  padding: 10px;
+  padding: 10px;s
   vertical-align: middle;;
 }
 .caption{
