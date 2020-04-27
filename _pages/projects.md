@@ -26,12 +26,12 @@ author_profile: true
 </style>
 
 <div class="container">
-  <img src="../images/National_Natural_Science_Foundation_of_China_logo.png">
-  <img src="../images/shanghaishiwei_logi.png">
-  <img src="../images/kasike_logo.png">
-  <img src="../images/mininglamp_logo.png">
-  <img src="../images/yinjiang_logo.jpg">
-  <img src="../images/yuantong_logo.png">
-  <img src="../images/baoxing_logo.png">
-  <img src="../images/huawei_logo.png">
+  <img src="../images/National_Natural_Science_Foundation_of_China-logo.png">
+  <img src="../images/shanghaishiwei-logo.png">
+  <img src="../images/kasike-logo.png">
+  <img src="../images/mininglamp-logo.png">
+  <img src="../images/yinjiang-logo.jpg">
+  <img src="../images/yuantong-logo.png">
+  <img src="../images/baoxing-logo.png">
+  <img src="../images/huawei-logo.png">
 </div>
