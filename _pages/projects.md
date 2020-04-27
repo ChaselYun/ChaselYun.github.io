@@ -27,6 +27,21 @@ author_profile: true
   padding: 10px;
   vertical-align: middle;;
 }
+.caption{
+  padding-top: 40px;
+  font-size: 30px;
+  text-align: center;
+  font-weight: 200;
+  font-family: Microsoft YaHei,Arial;
+  line-height: 1.42857143;
+  color: #333;
+}
+.caption_line{
+    width: 300px;
+    height: 1px;
+    margin: 10px auto 40px auto;
+    background: #000000;
+}
 </style>
 
 <div class="container">
@@ -39,3 +54,10 @@ author_profile: true
   <img src="../images/baoxing-logo.png">
   <img src="../images/huawei-logo.png">
 </div>
+
+<div class="caption">Partial List of Industry Projects</div>
+<div class="caption_line"></div>
+
+## NSFC 2个
+## 上海市科委面上
+## 卡斯柯项目
