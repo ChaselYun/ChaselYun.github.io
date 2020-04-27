@@ -20,12 +20,12 @@ author_profile: true
 <style type="text/css">
 .container{
   width: 100%;
-  /* background: black */
   padding: 40px 30px;
 }
 .container>img{
   height: 100px;
   padding: 10px;
+  vertical-align: middle;;
 }
 </style>
 
