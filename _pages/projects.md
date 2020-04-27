@@ -31,7 +31,7 @@ author_profile: true
   <img src="../images/kasike_logo.png">
   <img src="../images/mininglamp_logo.png">
   <img src="../images/yinjiang_logo.jpg">
-  <img src="../images/yuantong_logo.8f4131b.png">
+  <img src="../images/yuantong_logo.png">
   <img src="../images/baoxing_logo.png">
   <img src="../images/huawei_logo.png">
 </div>
