@@ -21,7 +21,9 @@ author_profile: true
 .container{
   width: 100%;
   /* background: black */
-
+}
+.container>img{
+  height: 100px;
 }
 </style>
 
