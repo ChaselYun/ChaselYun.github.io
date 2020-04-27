@@ -20,12 +20,18 @@ author_profile: true
 <style type="text/css">
 .container{
   width: 100%;
-  background: black
+  /* background: black */
 
 }
 </style>
 
 <div class="container">
   <img src="../images/National_Natural_Science_Foundation_of_China_logo.png">
-  <img src="../images/National_Natural_Science_Foundation_of_China_logo.png">
+  <img src="../images/shanghaishiwei_logi.png">
+  <img src="../images/kasike_logo.png">
+  <img src="../images/mininglamp_logo.png">
+  <img src="../images/yinjiang_logo.jpg">
+  <img src="../images/yuantong_logo.8f4131b.png">
+  <img src="../images/baoxing_logo.png">
+  <img src="../images/huawei_logo.png">
 </div>
