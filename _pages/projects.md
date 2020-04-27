@@ -18,7 +18,7 @@ author_profile: true
 <p>fagagoagjaogjao</p> -->
 
 <style type="text/css">
-.container{
+.img_container{
   width: 100%;
   padding: 40px 30px;
 }
@@ -44,7 +44,11 @@ author_profile: true
 }
 </style>
 
-<div class="container">
+
+<div class="caption">Sponsors and Collaborators</div>
+<div class="caption_line"></div>
+
+<div class="img_container">
   <img src="../images/National_Natural_Science_Foundation_of_China-logo.png">
   <img src="../images/shanghaishiwei-logo.png">
   <img src="../images/kasike-logo.png">
