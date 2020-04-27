@@ -24,6 +24,6 @@ author_profile: true
 }
 </style>
 
-<div class="container" style="width: 100%; background: black">
+<div class="container">
   13584114419684
 </div>
