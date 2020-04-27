@@ -25,8 +25,8 @@ author_profile: true
 }
 .img_container>img{
   height: 100px;
-  padding: 10px;s
-  vertical-align: middle;;
+  padding: 10px;
+  vertical-align: middle;
 }
 .caption{
   padding-top: 40px;
