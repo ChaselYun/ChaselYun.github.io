@@ -26,6 +26,6 @@ author_profile: true
 </style>
 
 <div class="container">
-  <img src="images/National_Natural_Science_Foundation_of_China_logo.png">
-  <img src="images/National_Natural_Science_Foundation_of_China_logo.png">
+  <img src="../images/National_Natural_Science_Foundation_of_China_logo.png">
+  <img src="../images/National_Natural_Science_Foundation_of_China_logo.png">
 </div>
