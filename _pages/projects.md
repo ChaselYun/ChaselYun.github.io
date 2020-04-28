@@ -4,21 +4,6 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-
-<<<<<<< HEAD
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.projects reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-<p>fagagoagjaogjao</p> -->
-
-=======
 >>>>>>> upstream/master
 <style type="text/css">
 .img_container{
@@ -28,13 +13,9 @@ author_profile: true
 }
 .img_container>img{
   height: 100px;
-<<<<<<< HEAD
   padding: 10px;
   vertical-align: middle;
-=======
-  padding: 10px;s
-  vertical-align: middle;;
->>>>>>> upstream/master
+
 }
 .caption{
   padding-top: 40px;
