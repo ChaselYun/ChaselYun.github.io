@@ -47,6 +47,8 @@ author_profile: true
   <img src="/images/projects/yuantong-logo.png">
   <img src="/images/projects/baoxing-logo.png">
   <img src="/images/projects/huawei-logo.png">
+  <img src="/images/projects/cerc-logo.jpg">
+  <img src="/images/projects/cosic-logo.jpg">
 </div>
 
 <div class="caption">Partial List of Industry Projects</div>
