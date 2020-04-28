@@ -15,13 +15,6 @@ main:
   #   url: /talks/
 
   - title: "Projects"
-<<<<<<< HEAD
-    url: /projects/ 
-
-  - title: "Teaching"
-    url: /teaching/ 
-    
-=======
     url: /projects/
 
   - title: "Teaching"
@@ -30,7 +23,6 @@ main:
   - title: "Group"
     url: /group/
 
->>>>>>> upstream/master
   #- title: "Portfolio"
   #  url: /portfolio/
 

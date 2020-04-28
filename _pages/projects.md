@@ -58,16 +58,6 @@ author_profile: true
 <div class="caption_line"></div>
 
 <div class="img_container">
-<<<<<<< HEAD
-  <img src="../images/National_Natural_Science_Foundation_of_China-logo.png">
-  <img src="../images/shanghaishiwei-logo.png">
-  <img src="../images/kasike-logo.png">
-  <img src="../images/mininglamp-logo.png" style="background: #0e56a0">
-  <img src="../images/yinjiang-logo.jpg">
-  <img src="../images/yuantong-logo.png">
-  <img src="../images/baoxing-logo.png">
-  <img src="../images/huawei-logo.png">
-=======
   <img src="/images/projects/National_Natural_Science_Foundation_of_China-logo.png">
   <img src="/images/projects/shanghaishiwei-logo.png">
   <img src="/images/projects/kasike-logo.png">
@@ -76,7 +66,6 @@ author_profile: true
   <img src="/images/projects/yuantong-logo.png">
   <img src="/images/projects/baoxing-logo.png">
   <img src="/images/projects/huawei-logo.png">
->>>>>>> upstream/master
 </div>
 
 <div class="caption">Partial List of Industry Projects</div>
