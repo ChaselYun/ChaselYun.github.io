@@ -4,30 +4,41 @@ main:
   #  url: /
   - title: "Introduction"
     url: /introduction/
-    
+
   - title: "People"
     url: /people/
 
   - title: "Publications"
     url: /publications/
 
-  - title: "Demos"
-    url: /talks/   
+  # - title: "Demos"
+  #   url: /talks/
 
   - title: "Projects"
+<<<<<<< HEAD
     url: /projects/ 
 
   - title: "Teaching"
     url: /teaching/ 
     
+=======
+    url: /projects/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Group"
+    url: /group/
+
+>>>>>>> upstream/master
   #- title: "Portfolio"
   #  url: /portfolio/
-        
+
   #- title: "Blog Posts"
   #  url: /year-archive/
-    
+
   #- title: "CV"
   #  url: /cv/
-    
+
   #- title: "Guide"
   #  url: /markdown/

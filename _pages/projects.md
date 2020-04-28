@@ -5,6 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
+<<<<<<< HEAD
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -17,6 +18,8 @@ author_profile: true
 
 <p>fagagoagjaogjao</p> -->
 
+=======
+>>>>>>> upstream/master
 <style type="text/css">
 .img_container{
   width: 100%;
@@ -25,8 +28,13 @@ author_profile: true
 }
 .img_container>img{
   height: 100px;
+<<<<<<< HEAD
   padding: 10px;
   vertical-align: middle;
+=======
+  padding: 10px;s
+  vertical-align: middle;;
+>>>>>>> upstream/master
 }
 .caption{
   padding-top: 40px;
@@ -50,6 +58,7 @@ author_profile: true
 <div class="caption_line"></div>
 
 <div class="img_container">
+<<<<<<< HEAD
   <img src="../images/National_Natural_Science_Foundation_of_China-logo.png">
   <img src="../images/shanghaishiwei-logo.png">
   <img src="../images/kasike-logo.png">
@@ -58,6 +67,16 @@ author_profile: true
   <img src="../images/yuantong-logo.png">
   <img src="../images/baoxing-logo.png">
   <img src="../images/huawei-logo.png">
+=======
+  <img src="/images/projects/National_Natural_Science_Foundation_of_China-logo.png">
+  <img src="/images/projects/shanghaishiwei-logo.png">
+  <img src="/images/projects/kasike-logo.png">
+  <img src="/images/projects/mininglamp-logo.png" style="background: #0e56a0">
+  <img src="/images/projects/yinjiang-logo.jpg">
+  <img src="/images/projects/yuantong-logo.png">
+  <img src="/images/projects/baoxing-logo.png">
+  <img src="/images/projects/huawei-logo.png">
+>>>>>>> upstream/master
 </div>
 
 <div class="caption">Partial List of Industry Projects</div>
