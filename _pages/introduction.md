@@ -1,15 +1,5 @@
 ---
 layout: archive
-<<<<<<< HEAD
-title: " "
-permalink: /introduction/
-author_profile: true
-redirect_from:
-  - /introduction
----
-
-this is introduction
-=======
 title: "Introduction"
 permalink: /
 author_profile: true
@@ -37,4 +27,3 @@ redirect_from:
 <p>
   Multi-agent Artificial Intelligence Laboratory focuses on develop advanced methods for multi-agent system management, especially on multi-agent reinforcement learning, multi-agent(distributed) optimization, and applications in robotics, transportation and medical field.
 </p>
->>>>>>> upstream/master
